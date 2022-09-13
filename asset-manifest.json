@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://mehnaaztabasum.github.io/csb-55pgq9/static/js/main.43a60c8b.chunk.js",
+    "main.js.map": "https://mehnaaztabasum.github.io/csb-55pgq9/static/js/main.43a60c8b.chunk.js.map",
+    "runtime-main.js": "https://mehnaaztabasum.github.io/csb-55pgq9/static/js/runtime-main.253524f5.js",
+    "runtime-main.js.map": "https://mehnaaztabasum.github.io/csb-55pgq9/static/js/runtime-main.253524f5.js.map",
+    "static/js/2.e5e5a5f0.chunk.js": "https://mehnaaztabasum.github.io/csb-55pgq9/static/js/2.e5e5a5f0.chunk.js",
+    "static/js/2.e5e5a5f0.chunk.js.map": "https://mehnaaztabasum.github.io/csb-55pgq9/static/js/2.e5e5a5f0.chunk.js.map",
+    "index.html": "https://mehnaaztabasum.github.io/csb-55pgq9/index.html",
+    "precache-manifest.73363f44bdce46c68f115e26006cda7d.js": "https://mehnaaztabasum.github.io/csb-55pgq9/precache-manifest.73363f44bdce46c68f115e26006cda7d.js",
+    "service-worker.js": "https://mehnaaztabasum.github.io/csb-55pgq9/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.253524f5.js",
+    "static/js/2.e5e5a5f0.chunk.js",
+    "static/js/main.43a60c8b.chunk.js"
+  ]
+}
